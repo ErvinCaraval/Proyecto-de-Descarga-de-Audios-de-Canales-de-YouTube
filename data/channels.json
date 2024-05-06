@@ -1,0 +1,57 @@
+
+[
+    {
+        "nombre": "Japatonic",
+        "videos": [
+            {"titulo": "mas de forma digamos", "url": "https://www.youtube.com/shorts/alBf1Vocs4A"},
+            {"titulo": "precios del supermercado en japon", "url": "https://www.youtube.com/shorts/meIjQdijni4"},
+            {"titulo": "no se si ser despedido", "url": "https://www.youtube.com/shorts/GqDhlv2h5cc"},
+            {"titulo": "vamos apor comida porque uno puede comer libre", "url": "https://www.youtube.com/shorts/wcIrxwAy5Iw"},
+            {"titulo": "pros y contar de vivir en japon", "url": "https://www.youtube.com/shorts/GsJVBDaMCbM"}
+        ]
+    },
+    {
+        "nombre": "PlanetaJuan",
+        "videos": [
+            {"titulo": "Como y cuando aprendio ingles", "url": "https://www.youtube.com/shorts/eRFHmxloX6U"},
+            {"titulo": "¿Como es la frontera de Ucrania con Rusia?", "url": "https://www.youtube.com/shorts/xBn4ooULYIY"},
+            {"titulo": "¿Como encontrar a tu papà", "url": "https://www.youtube.com/shorts/PpHCc-esKyc"},
+            {"titulo": "@PlanetaJuan visitando Cusco el omblicgo del mundo", "url": "https://www.youtube.com/shorts/gar68tw8RnA"},
+            {"titulo": "La bonita reflexion de planeta juan", "url": "https://www.youtube.com/shorts/GneGUxCNYvo"}
+        ]
+    },
+
+    {
+        "nombre": "hdeleon.net",
+        "videos": [
+            {"titulo": "¡EL FINAL DE LOS PROGRAMADORES! | Declaraciones del CEO de NVIDIA", "url": "https://www.youtube.com/watch?v=kE5Cg8GtMng"},
+            {"titulo": "¿Qué es SER un MAL PROGRAMADOR?", "url": "https://www.youtube.com/watch?v=fV0SslRLQtg"},
+            {"titulo": "¿Que es WebAssembly?", "url": "https://www.youtube.com/shorts/UhomCb4vW5E"},
+            {"titulo": "Inteligencia artifical se rebela", "url": "https://www.youtube.com/shorts/69f2nvIMAL8"},
+            {"titulo": "En progrmacion no necesitas aprender todo", "url": "https://www.youtube.com/shorts/bx0ilTEY8bI"}
+        ]
+    },
+
+    {
+        "nombre": "Pelado Nerd",
+        "videos": [
+            {"titulo": "SADSERVERS / Bucharest (V2M)", "url": "https://www.youtube.com/watch?v=ra__Od15Oxc"},
+            {"titulo": "SADSERVERS / Buenos Aires (V2M)", "url": "https://www.youtube.com/watch?v=sRZ9DHTn5Bg"},
+            {"titulo": "PLUTO - Actualizando tu cluster de KUBERNETES sin PROBLEMAS", "url": "https://www.youtube.com/watch?v=uN2UP9cLb5w"},
+            {"titulo": "Nueva FEATURE! - docker init", "url": "https://www.youtube.com/watch?v=ONmucMR-qNY"},
+            {"titulo": "Nerdctl / V2M", "url": "https://www.youtube.com/watch?v=ZqQv-v-5lJI"}
+        ]
+    },
+    {
+        "nombre": "Antonio García Villarán",
+        "videos": [
+            {"titulo": "GOYA, FRANCIS BACON Y FRIEDRICH en DOGFIGHT WILD TOURNAMEN 2. Jordi Wild", "url": "https://www.youtube.com/watch?v=qchNPBLUxxQ"},
+            {"titulo": "¿DISEÑO o ARTE? ¿Qué es la BAUHAUS?", "url": "https://www.youtube.com/watch?v=R4ipBRYWjHU"},
+            {"titulo": "Dejo TWITCH. Ficho con RNE... NUEVA TEMPORADA!!! Lo que se viene!!! Antonio García Villarán 2023/24", "url": "https://www.youtube.com/watch?v=JnP5Jq7ic4g"},
+            {"titulo": "Hombre ATRAPADO dentro de una ESCULTURA de Arte Contemporáneo en Canadá", "url": "https://www.youtube.com/watch?v=tOpdgjdgzXk"},
+            {"titulo": "RETO DIBUJO en 10 Seg. 30 Seg. y 15 Min.", "url": "https://www.youtube.com/watch?v=ybqnTYIZW6k"}
+        ]
+    }
+
+
+]
